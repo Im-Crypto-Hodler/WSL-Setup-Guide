@@ -1,0 +1,20 @@
+wsl-setup-guide/
+│
+├── README.md              # Main documentation and overview
+│
+├── setup/                 # Detailed guides
+│   ├── install-wsl.md     # WSL installation steps
+│   ├── install-git.md     # Git setup instructions
+│   ├── connect-github.md  # GitHub SSH connection guide
+│   ├── essential-tools.md # Development tools setup
+│   └── docker-setup.md    # Docker installation guide
+│
+├── scripts/               # Automation scripts
+│   ├── wsl-setup.sh       # Main setup script
+│   ├── git-setup.sh       # Git configuration script
+│   └── docker-setup.sh    # Docker installation script
+│
+└── images/                # Visual guides
+    ├── wsl-setup.png      # WSL installation screenshots
+    ├── git-config.png     # Git configuration example
+    └── github-ssh-key.png # Adding SSH key to GitHub
